@@ -1,4 +1,4 @@
-# Dreaded-Deep
+# Dreaded Deep
 This game was made for the [NUGDS Winter Jam 2025](https://itch.io/jam/game-dev-winter-jam-25) using Unreal Engine 5
 
 Dreaded Deep is a small exploration focused game, with a dark and suffocating atmosphere as you are trapped at the bottom of the ocean. 
