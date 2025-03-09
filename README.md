@@ -24,6 +24,20 @@ Thomas Johnson - Music
 - [Temple Model](https://sketchfab.com/3d-models/mayan-temple-or-stage-ef4bf91b290b47efa2e6944abc5d46d5) (Author: BytesCrafter)
 - [Harpoon Gun Model](https://sketchfab.com/3d-models/harpoon-rifle-5456adeff51947d5bf66a4563bb3821f) (Author: Horizzon)
 
+  _All other content was made by the Authors for use by the Authors in the game. Music and sounds were made in FL Studio 21.
+  If a mistake has been made, please contact us._
+
+### Update V1.1
+Uploaded a small update to the game after the jam, all of the code is the same I've just tweaked some variables based on feedback and play testing - Alex
+
+Changes: 
+- Increased torch brightness
+- Slightly higher ambient brightness 
+- Reduced depth-of-field effect underwater
+- Shark is more aggressive
+- Shark is faster 
+- Oxygen supply is greater
+
 ### Install:
 - Download the code as a zip
 - Unzip the downloaded folder
